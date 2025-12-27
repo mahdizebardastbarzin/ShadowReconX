@@ -4,7 +4,7 @@
 
 **Educational • Blue Team • Internal Audit Only**
 
-[https://github.com/mahdizebardastbarzin/ShadowReconX/blob/main/ShadowReconX.jpg]
+![ShadowReconX – Advanced Modular Defensive Recon & Audit Tool](https://github.com/mahdizebardastbarzin/ShadowReconX/blob/main/ShadowReconX.jpg)
 
 ---
 
@@ -206,4 +206,5 @@ Using this tool on systems you do not own or have permission for is illegal.
 ---
 
 **ShadowReconX — Visibility without exploitation.**
+
 
