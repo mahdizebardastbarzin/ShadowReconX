@@ -4,6 +4,8 @@
 
 **Educational • Blue Team • Internal Audit Only**
 
+[https://github.com/mahdizebardastbarzin/ShadowReconX/blob/main/ShadowReconX.jpg]
+
 ---
 
 ## 📌 Project Overview | معرفی پروژه
@@ -204,3 +206,4 @@ Using this tool on systems you do not own or have permission for is illegal.
 ---
 
 **ShadowReconX — Visibility without exploitation.**
+
